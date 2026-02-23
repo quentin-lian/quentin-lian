@@ -1,4 +1,4 @@
-# Hi 👋, I'm kian-lian
+# Hi 👋, I'm Kian Ried
 
 ### A Full-stack Developer
 
